@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-
-namespace SproutMethod
+﻿namespace SproutMethod
 {
     public class LegacyClass
     {

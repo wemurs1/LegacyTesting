@@ -1,7 +1,4 @@
-﻿using System.Collections.Generic;
-using System.Linq;
-
-namespace SproutClass
+﻿namespace SproutClass
 {
     public class EmployeeService : IEmployeeService
     {

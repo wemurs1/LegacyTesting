@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace SproutClass
+﻿namespace SproutClass
 {
     class Program
     {

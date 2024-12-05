@@ -1,7 +1,3 @@
-using Xunit;
-using Moq;
-using System.Collections.Generic;
-
 namespace SproutClass.Tests
 {
     public class EmployeesTest

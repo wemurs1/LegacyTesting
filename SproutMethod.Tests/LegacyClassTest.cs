@@ -1,6 +1,3 @@
-using System.Collections.Generic;
-using Xunit;
-
 namespace SproutMethod.Tests
 {
     public class LegacyClassTest
